@@ -1,2 +1,2 @@
-# project-manager
-a project-manager written in vue.js 
+# vue
+a vue.js app can make you learn better this framework
